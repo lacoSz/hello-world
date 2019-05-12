@@ -1,0 +1,10 @@
+[core]
+	editor = notepad
+[format]
+	commitMessageColumns = 80
+[gui]
+	encoding = utf-8
+	recentrepo = C:/git
+[user]
+	name = lacoSz
+	email = ladislav.szikhart@gmail.com
